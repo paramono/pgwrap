@@ -1,6 +1,7 @@
 #!/bin/bash
 
 # run either as root or as the user that has a role of the same name in postgres
+# for reference: https://stackoverflow.com/a/12236582/5618728
 
 POSITIONAL=()
 BECOME_USER=postgres
