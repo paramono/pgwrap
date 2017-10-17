@@ -2,6 +2,6 @@
     "name": "pgwrap",
     "version": "1.0.0",
     "description": "Bash wrapper for dumping/loading postgresql databases",
-    "scripts": [ "pgwrap.sh" ],
+    "scripts": [ "pgwrap" ],
     "install": "make install"
 }
